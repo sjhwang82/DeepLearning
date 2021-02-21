@@ -23,6 +23,13 @@ Office hours: By appointment only.
 |---|:---|
 |3/2| Course Introduction |
 |3/4| Review of Machine Learning Basics (Video Lecture) |
+|3/9| Feedforward Neural Networks
+|3/11| Feedforward Neural Networks
+|3/16| Convolutional Neural Networks
+|3/18| Convolutional Neural Networks
+|3/23| Recurrent Neural Networks
+|3/25| Recurrent Neural Networks
+
 
 ## Reading List
 
