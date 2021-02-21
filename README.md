@@ -5,7 +5,7 @@
 
 **Office:** 
 This is an online course.
-Building #9, 9201, KAIST Seoul Campus
+Building #9, 9201, KAIST Seoul Campus. 
 Office hours: By appointment only.
 
 ### Grading Policy
