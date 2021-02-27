@@ -40,7 +40,7 @@ Office hours: By appointment only.
 |4/15| Variational Autoencoders
 |4/20| **Mid-term Exam**
 |4/27| Generative Adversarial Networks
-|4/29| Generative Adversarial Networks (WGAN, StyleGAN)
+|4/29| Advanced GANs (WGAN, StyleGAN)
 |5/4| Image Generation and Translation with GANs
 |5/6| Efficient CNN Architectures (MobileNets, ShuffltNets) 
 |5/11| Efficient CNN Architectures (EfficientNet, NFNets)
