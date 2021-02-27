@@ -32,6 +32,25 @@ Office hours: By appointment only.
 |3/18| Convolutional Neural Networks
 |3/23| Recurrent Neural Networks
 |3/25| Recurrent Neural Networks
+|3/30| Regularizations for Deep Learning
+|4/1| Regularizations for Deep Learning
+|4/6| Optimizations for Deep Learning
+|4/8| Optimizations for Deep Learning
+|4/13| Autoencoders
+|4/15| Variational Autoencoders
+|4/20| Mid-term Exam
+|4/27| Generative Adversarial Networks
+|4/29| Generative Adversarial Networks
+|5/4| Image Generation and Translation with GANs
+|5/6| Advanced CNN Architectures
+|5/11| Object Detection ans Segmentation with CNNs
+|5/13| Transformers
+|5/18| Pretrained Language Models
+|5/20| Vision and Multi-modal Transformers
+|5/25| Graph Neural Networks
+|5/27| Graph Neural Networks
+|6/1| Graph Classification and Molecular Generation with GNNs
+|6/15| Final Presentation
 
 
 ## Reading List
