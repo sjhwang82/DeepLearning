@@ -3,6 +3,7 @@
 ## Course Information
 
 **Description**
+
 This course covers various models and algorithms for deep learning, including both the fundemantal concepts and recent advances. In the first half of the course, we will learn about the most basic topics such as multi-layer preceptrons, backpropagation, convolutional neural networks, recurrent neural networks, autoencoders and variational autoencoders, optimization and regularization of deep learning models. Then, in the second half of the course, we will go over more advanced models, such as generative adversarial networks, autoregressive models, efficient CNN architectures, transformers, and graph neural networks, while solving a real-world problem utilizing one of them.  
 
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
