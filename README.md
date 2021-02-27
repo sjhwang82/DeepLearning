@@ -16,8 +16,8 @@ Office hours: By appointment only.
 
 ### Grading Policy
 * **Absolute Grading** - You will be graded by the total absolute score, and not the relative ranking.
-* Mid-term Exam: 40% - The exam will cover the basic topics of deep learning. 
-* Programming Assignments: 40% - You will need to work on programming assignments 
+* Mid-term Exam: 40% - The exam will cover the basic topics of deep learning taught in the first half of the course.
+* Programming Assignments: 40% - You will need to work on programming assignments.
 * Attendance and Participation: 20% - There will be a team presentation on one of the selected papers.
 
 ## Tentative Schedule
