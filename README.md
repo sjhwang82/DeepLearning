@@ -48,12 +48,11 @@ Office hours: By appointment only.
 |5/18| Efficient CNN Architectures (EfficientNet, NFNets)
 |5/20| Transformers
 |5/25| Pretrained Language Models (BERT, GPT)
-|6/1| Vision and Multi-modal Transformers (VIT, DALLE)
-|6/3| Graph Neural Networks (Node Embeddings)
-|6/8| Graph Neural Networks (Pooling Methods)
-|6/10| **Final Presentation**
-|6/15| **Final Report Due**
-
+|6/1| Transformer **(Programming)**
+|6/3| Vision and Multi-modal Transformers (VIT, DALLE)
+|6/8| Graph Neural Networks (Node Embeddings)
+|6/10| Graph Neural Networks (Pooling Methods)
+|6/15| **Final Presentation**
 
 ## Reading List
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
