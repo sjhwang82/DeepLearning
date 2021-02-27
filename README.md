@@ -29,9 +29,9 @@ Office hours: By appointment only.
 |3/9| Feedforward Neural Networks
 |3/11| Feedforward Neural Networks
 |3/16| Convolutional Neural Networks
-|3/18| Convolutional Neural Networks
+|3/18| Residual Networks
 |3/23| Recurrent Neural Networks
-|3/25| Recurrent Neural Networks
+|3/25| Attentional RNNs
 |3/30| Regularizations for Deep Learning
 |4/1| Regularizations for Deep Learning
 |4/6| Optimizations for Deep Learning
