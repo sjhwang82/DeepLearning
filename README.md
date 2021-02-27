@@ -31,24 +31,23 @@ Office hours: By appointment only.
 |3/16| **Pytorch Basics** 
 |3/18| Convolutional Neural Networks
 |3/23| Advanced CNN Architectures (GoogLeNet, ResNet, DenseNet)
-|3/25| CNN **(Programming)**
-|3/30| Recurrent Neural Networks (LSTM, Seq2Seq)
-|4/1| Attentional RNNs and Memory Networks
-|4/6| RNN **(Programming)**
-|4/8| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
-|4/13| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
-|4/15| Optimization Techniques for Deep Learning (Challenges, Lottery Ticket Hypothesis) 
-|4/18| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
+|3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
+|3/30| Attentional RNNs and Memory Networks
+|4/1| CNN & RNN **(Programming)**
+|4/6| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
+|4/8| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
+|4/13| Optimization Techniques for Deep Learning (Challenges, Lottery Ticket Hypothesis) 
+|4/15| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
 |4/20| **Mid-term Exam**
-|4/27| Autoencoders
-|4/29| Variational Autoencoders
+|4/27| Regularization & Optimization **(Programming)**
+|4/29| Autoencoders and Variational Autoencoders
 |5/4| Generative Adversarial Networks
 |5/6| Advanced GANs (WGAN, StyleGAN)
 |5/11| VAE and GAN **(Programming)**
 |5/13| Efficient CNN Architectures (MobileNets, ShuffltNets) 
 |5/18| Efficient CNN Architectures (EfficientNet, NFNets)
 |5/20| Transformers
-|5/25| Pretrained Language Models (BERT, GPT) 
+|5/25| Pretrained Language Models (BERT, GPT)
 |6/1| Vision and Multi-modal Transformers (VIT, DALLE)
 |6/3| Graph Neural Networks (Node Embeddings)
 |6/8| Graph Neural Networks (Pooling Methods)
