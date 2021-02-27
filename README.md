@@ -28,29 +28,30 @@ Office hours: By appointment only.
 |3/4| Review of Machine Learning Basics **(Video Lecture)** |
 |3/9| Feedforward Neural Networks (Cost Function, Activations)
 |3/11| Feedforward Neural Networks (Backpropagation)
-|3/16| Convolutional Neural Networks
-|3/18| Advanced CNN Architectures (GoogLeNet, ResNet, DenseNet)
-|3/23| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/25| Attentional RNNs and Memory Networks
-|3/30| Regularization Techniques for Deep Learning (L2/L1, Ensemble) 
-|4/1| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
-|4/6| Optimization Techniques for Deep Learning (Challenges, Lottery Ticket Hypothesis) 
-|4/8| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
-|4/13| Autoencoders
-|4/15| Variational Autoencoders
+|3/16| **Pytorch Basics** 
+|3/18| Convolutional Neural Networks
+|3/23| Advanced CNN Architectures (GoogLeNet, ResNet, DenseNet)
+|3/25| CNN **(Programming)**
+|3/30| Recurrent Neural Networks (LSTM, Seq2Seq)
+|4/1| Attentional RNNs and Memory Networks
+|4/6| RNN **(Programming)**
+|4/8| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
+|4/13| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
+|4/15| Optimization Techniques for Deep Learning (Challenges, Lottery Ticket Hypothesis) 
+|4/18| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
 |4/20| **Mid-term Exam**
-|4/27| Generative Adversarial Networks
-|4/29| Advanced GANs (WGAN, StyleGAN)
-|5/4| Image-to-Image Translation with CycleGANs
-|5/6| AutoRegressive Models 
-|5/11| Efficient CNN Architectures (MobileNets, ShuffltNets) 
-|5/13| Efficient CNN Architectures (EfficientNet, NFNets)
-|5/18| Transformers
-|5/20| Pretrained Language Models (BERT, GPT) 
-|5/25| Vision and Multi-modal Transformers (VIT, DALLE)
-|5/27| Graph Neural Networks (Node Embeddings)
-|6/1| Graph Neural Networks (Pooling Methods)
-|6/3| Link Prediction with GNNs
+|4/27| Autoencoders
+|4/29| Variational Autoencoders
+|5/4| Generative Adversarial Networks
+|5/6| Advanced GANs (WGAN, StyleGAN)
+|5/11| VAE and GAN **(Programming)**
+|5/13| Efficient CNN Architectures (MobileNets, ShuffltNets) 
+|5/18| Efficient CNN Architectures (EfficientNet, NFNets)
+|5/20| Transformers
+|5/25| Pretrained Language Models (BERT, GPT) 
+|6/1| Vision and Multi-modal Transformers (VIT, DALLE)
+|6/3| Graph Neural Networks (Node Embeddings)
+|6/8| Graph Neural Networks (Pooling Methods)
 |6/10| **Final Presentation**
 |6/15| **Final Report Due**
 
