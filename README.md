@@ -26,29 +26,29 @@ Office hours: By appointment only.
 |---|:---|
 |3/2| Course Introduction |
 |3/4| Review of Machine Learning Basics **(Video Lecture)** |
-|3/9| Feedforward Neural Networks (Activations, Backpropagation)
-|3/11| Feedforward Neural Networks (Training)
+|3/9| Feedforward Neural Networks (Cost Function, Activations)
+|3/11| Feedforward Neural Networks (Backpropagation)
 |3/16| Convolutional Neural Networks
-|3/18| Residual Networks
-|3/23| Recurrent Neural Networks
-|3/25| Attentional RNNs
-|3/30| Regularization Techniques for Deep Learning
-|4/1| Regularization Techniques for Deep Learning
-|4/6| Optimization Techniques for Deep Learning
-|4/8| Optimization Techniques for Deep Learning
+|3/18| Advanced CNN Architectures (GoogLeNet, ResNet, DenseNet)
+|3/23| Recurrent Neural Networks (LSTM, Seq2Seq)
+|3/25| Attentional RNNs and Memory Networks
+|3/30| Regularization Techniques for Deep Learning (L2/L1, Ensemble) 
+|4/1| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
+|4/6| Optimization Techniques for Deep Learning (Challenges) 
+|4/8| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
 |4/13| Autoencoders
 |4/15| Variational Autoencoders
 |4/20| Mid-term Exam
 |4/27| Generative Adversarial Networks
-|4/29| Generative Adversarial Networks
+|4/29| Generative Adversarial Networks (WGAN, StyleGAN)
 |5/4| Image Generation and Translation with GANs
-|5/6| Advanced CNN Architectures
-|5/11| Efficient CNN Architectures
+|5/6| Efficient CNN Architectures (MobileNets, ShuffltNets) 
+|5/11| Efficient CNN Architectures (EfficientNet, NFNets)
 |5/13| Transformers
-|5/18| Pretrained Language Models
-|5/20| Vision and Multi-modal Transformers
-|5/25| Graph Neural Networks
-|5/27| Graph Neural Networks
+|5/18| Pretrained Language Models (BERT, GPT) 
+|5/20| Vision and Multi-modal Transformers (VIT, DALLE)
+|5/25| Graph Neural Networks (Node Embedding Methods)
+|5/27| Graph Neural Networks (Pooling Methods)
 |6/15| Final Project Due
 
 
