@@ -1,6 +1,10 @@
 # Deep Learning @ KAIST
 
 ## Course Information
+
+**Description**
+
+
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
 
 **TAs:** Seanie Lee, Taewook Nam, Jinheon Baek, Minki Kang
@@ -11,11 +15,10 @@ Building #9, 9201, KAIST Seoul Campus.
 Office hours: By appointment only.
 
 ### Grading Policy
-* **Absolute Grading**
-* Mid-term Exam: 40%
-* Programming Assignments: 40% 
-* Attendance and Participation: 20%
-
+* **Absolute Grading** - You will be graded by the total absolute score, and not the relative ranking.
+* Mid-term Exam: 40% - The exam will cover the basic topics of deep learning. 
+* Programming Assignments: 40% - You will need to work on programming assignments 
+* Attendance and Participation: 20% - There will be a team presentation on one of the selected papers.
 
 ## Tentative Schedule
 
