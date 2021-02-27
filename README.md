@@ -34,7 +34,7 @@ Office hours: By appointment only.
 |3/25| Attentional RNNs and Memory Networks
 |3/30| Regularization Techniques for Deep Learning (L2/L1, Ensemble) 
 |4/1| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
-|4/6| Optimization Techniques for Deep Learning (Challenges) 
+|4/6| Optimization Techniques for Deep Learning (Challenges, Lottery Ticket Hypothesis) 
 |4/8| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
 |4/13| Autoencoders
 |4/15| Variational Autoencoders
