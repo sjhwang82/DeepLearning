@@ -36,19 +36,20 @@ Office hours: By appointment only.
 |3/30| Attentional RNNs and Transformers **(Initial Proposal Due)**
 |4/1| CNN, RNN and Transformers **(Programming)**
 |4/6| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
-|4/8| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
-|4/13| Optimization Techniques for Deep Learning (Challenges) 
-|4/15| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
+|4/8| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
+|4/13| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
+|4/15| Autoencoders and Variational Autoencoders
+|4/20| **Mid-term Exam**
 |4/27| Regularization & Optimization **(Programming)**
-|4/29| Autoencoders and Variational Autoencoders
-|5/4| Generative Adversarial Networks
-|5/6| Advanced GANs (WGAN, StyleGAN)
-|5/11| VAE and GAN **(Programming)**
-|5/13| **Mid-term Exam**
-|5/18| **Mid-term Presentations** 
-|5/20| Advanced CNN Architectures (EfficientNet, NFNets)
-|5/25| Advanced CNN Architectures (EfficientNet, NFNets)
-|6/1| Self-Supervised Learning and Pretrained Language Models (BERT, GPT)
+|4/29| Generative Adversarial Networks
+|5/4| Advanced GANs (WGAN, StyleGAN)
+|5/6| VAE and GAN **(Programming)**
+|5/11| **Mid-term Presentations**
+|5/13| Advanced CNN Architectures (MobileNets, ShuffleNets)
+|5/18| Advanced CNN Architectures (EfficientNets, NFNets)
+|5/23| Object Detection and Segmentation
+|5/25| Self-Supervised Learning 
+|6/1| Pretrained Language Models (BERT, GPT)
 |6/3| Vision and Multi-modal Transformers (VIT, DALLE)
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
 |6/10| Graph Neural Networks (Pooling Methods, Graph Generation)
