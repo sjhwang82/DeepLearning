@@ -11,8 +11,11 @@ This course covers various models and algorithms for deep learning, including bo
 **TAs** 
 
 Seanie Lee (lsnfamily02@kaist.ac.kr)
+
 Taewook Nam (namsan@kaist.ac.kr)
+
 Jinheon Baek (jinheon.baek@kaist.ac.kr)
+
 Minki Kang (zzxc1133@kaist.ac.kr)
 
 **Programming Environment:**
