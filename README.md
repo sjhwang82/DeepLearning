@@ -33,7 +33,7 @@ Office hours: By appointment only.
 |3/18| Convolutional Neural Networks
 |3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
 |3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/30| Attentional RNNs and Transformers **Initial Proposal Due**
+|3/30| Attentional RNNs and Transformers **(Initial Proposal Due)**
 |4/1| CNN, RNN and Transformers **(Programming)**
 |4/6| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
 |4/8| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
