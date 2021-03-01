@@ -37,7 +37,7 @@ Office hours: By appointment only.
 |3/4| Review of Machine Learning Basics **(Video Lecture, Will be uploaded on 3/6)** |
 |3/9| Feedforward Neural Networks (Cost Function, Activations)
 |3/11| Feedforward Neural Networks (Backpropagation, Why deep learning works)
-|3/16| Pytorch Basics and Feedforward Neural Networks **(Programming)** 
+|3/16| Pytorch Basics, Setting Up AWS, and Feedforward Neural Networks **(Programming)** 
 |3/18| Convolutional Neural Networks
 |3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
 |3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
@@ -46,12 +46,12 @@ Office hours: By appointment only.
 |4/6| Regularization for Deep Learning (Dropout, Data Augmentations)
 |4/8| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
 |4/13| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
-|4/15| CNN, RNN, Regularization and Optimization **(Programming)**
+|4/15| CNN, RNN, Regularization **(Programming)**
 |4/20| **Mid-term Exam**
 |4/27| Autoencoders and Variational Autoencoders
 |4/29| Generative Adversarial Networks
 |5/4| Advanced GANs (WGAN, StyleGAN)
-|5/6| VAEs and GANs **(Programming)**, **(1st Assignment Due)**
+|5/6|  Optimization, VAEs and GANs **(Programming)**, **(1st Assignment Due)**
 |5/11| Advanced CNN Architectures (MobileNets, ShuffleNets)
 |5/13| Advanced CNN Architectures (EfficientNets, NFNets)
 |5/18| Object Detection and Segmentation
