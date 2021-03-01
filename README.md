@@ -41,24 +41,24 @@ Office hours: By appointment only.
 |3/18| Convolutional Neural Networks
 |3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
 |3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/30| Attention Mechanism and Attentional RNNs
-|4/1| CNN and RNN **(Programming)**
-|4/6| Regularization for Deep Learning (L2/L1, Ensemble)  
-|4/8| Regularization for Deep Learning (Dropout, Data Augmentations)
-|4/13| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
-|4/15| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) **(1st Assignment Due)**
+|3/30| Attention Mechanisms and Attentional RNNs
+|4/1| Regularization for Deep Learning (L2/L1, Ensemble)  
+|4/6| Regularization for Deep Learning (Dropout, Data Augmentations)
+|4/8| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
+|4/13| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
+|4/15| CNN, RNN, Regularization and Optimization **(Programming)**
 |4/20| **Mid-term Exam**
-|4/27| Regularization & Optimization **(Programming)**
-|4/29| Autoencoders and Variational Autoencoders
-|5/4| Generative Adversarial Networks
-|5/6| Advanced GANs (WGAN, StyleGAN)
-|5/11| VAEs and GANs **(Programming)**, 
-|5/13| Advanced CNN Architectures (MobileNets, ShuffleNets)
-|5/18| Advanced CNN Architectures (EfficientNets, NFNets)
-|5/20| Object Detection and Segmentation
-|5/25| Self-Supervised Learning 
-|5/27| Transformers
-|6/1| Pretrained Language Models (BERT, GPT)
+|4/27| Autoencoders and Variational Autoencoders
+|4/29| Generative Adversarial Networks
+|5/4| Advanced GANs (WGAN, StyleGAN)
+|5/6| VAEs and GANs **(Programming)**, **(1st Assignment Due)**
+|5/11| Advanced CNN Architectures (MobileNets, ShuffleNets)
+|5/13| Advanced CNN Architectures (EfficientNets, NFNets)
+|5/18| Object Detection and Segmentation
+|5/20| Self-Supervised Learning 
+|5/25| Transformers
+|5/27| Pretrained Language Models (BERT, GPT)
+|6/1| Trransfomers and Pretrained Language Models **(Programming)**
 |6/3| Vision and Multi-modal Transformers (VIT, DALLE) 
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
 |6/10| Graph Neural Networks (Pooling Methods, Graph Generation) **(2nd Assignment Due)**
