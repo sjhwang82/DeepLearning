@@ -24,8 +24,9 @@ Office hours: By appointment only.
 
 ### Grading Policy
 * **Absolute Grading** - You will be graded by the total absolute score, and not the relative ranking. Every project groups will be also graded solely based on the absolute quality of the final project outcome, not in comparison to others.
-* Mid-term Exam: 40% - The exam will cover the basic topics of deep learning taught in the first half of the course.
-* Final Project: 40% - You will need to work on a final project utilizing one of the advanced models, present it, and submit the report.
+* Mid-term Exam: 20% - The exam will cover the basic topics of deep learning taught in the first half of the course.
+* Final Exam: 20% - This will cover the advanced topics taught in the second half of the course. 
+* Programming Assignments: 40% - You will work on two programming assignments and submit the code as well as the report.
 * Attendance and Participation: 20% - Active participation during or off-class hours will be highly appreciated.
 
 ## Tentative Schedule
@@ -40,27 +41,28 @@ Office hours: By appointment only.
 |3/18| Convolutional Neural Networks
 |3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
 |3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/30| Attentional RNNs and Transformers **(Initial Proposal Due)**
+|3/30| Attention Mechanism and Attentional RNNs
 |4/1| CNN, RNN and Transformers **(Programming)**
-|4/6| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
-|4/8| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
-|4/13| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
-|4/15| Autoencoders and Variational Autoencoders
+|4/6| Regularization for Deep Learning (L2/L1, Ensemble)  
+|4/8| Regularization for Deep Learning (Dropout, Data Augmentations)
+|4/13| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
+|4/15| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) **(1st Assignment Due)**
 |4/20| **Mid-term Exam**
 |4/27| Regularization & Optimization **(Programming)**
-|4/29| Generative Adversarial Networks
-|5/4| Advanced GANs (WGAN, StyleGAN)
-|5/6| VAE and GAN **(Programming)**
-|5/11| **Mid-term Presentations**
-|5/13| Advanced CNN Architectures (MobileNets, ShuffleNets)
-|5/18| Advanced CNN Architectures (EfficientNets, NFNets)
-|5/23| Object Detection and Segmentation
-|5/25| Self-Supervised Learning 
+|4/29| Autoencoders and Variational Autoencoders
+|5/4| Generative Adversarial Networks
+|5/6| Advanced GANs (WGAN, StyleGAN)
+|5/11| VAEs and GANs **(Programming)**, 
+|5/13| **Programming Assignment Explained**
+|5/18| Advanced CNN Architectures (MobileNets, ShuffleNets)
+|5/23| Advanced CNN Architectures (EfficientNets, NFNets)
+|5/25| Object Detection and Segmentation
+|6/1| Self-Supervised Learning 
 |6/1| Pretrained Language Models (BERT, GPT)
-|6/3| Vision and Multi-modal Transformers (VIT, DALLE)
+|6/3| Vision and Multi-modal Transformers (VIT, DALLE) **(2nd Assignment Due)**
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
 |6/10| Graph Neural Networks (Pooling Methods, Graph Generation)
-|6/18| **Final Presentations**
+|6/18| **Final Exam**
 
 ## Reading List
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
