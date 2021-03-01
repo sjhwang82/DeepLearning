@@ -29,12 +29,12 @@ Office hours: By appointment only.
 * Programming Assignments: 40% - You will work on two programming assignments and submit the code as well as the report.
 * Attendance and Participation: 20% - Active participation during or off-class hours will be highly appreciated.
 
-## Tentative Schedule
+## Course Schedule
 
 | Dates | Topic | 
 |---|:---|
 |3/2| Course Introduction |
-|3/4| Review of Machine Learning Basics **(Video Lecture)** |
+|3/4| Review of Machine Learning Basics **(Video Lecture, Will be uploaded on 3/5)** |
 |3/9| Feedforward Neural Networks (Cost Function, Activations)
 |3/11| Feedforward Neural Networks (Backpropagation, Why deep learning works)
 |3/16| Pytorch Basics and Feedforward Neural Networks **(Programming)** 
