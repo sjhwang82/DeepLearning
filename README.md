@@ -42,7 +42,7 @@ Office hours: By appointment only.
 |3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
 |3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
 |3/30| Attention Mechanism and Attentional RNNs
-|4/1| CNN, RNN and Transformers **(Programming)**
+|4/1| CNN and RNN **(Programming)**
 |4/6| Regularization for Deep Learning (L2/L1, Ensemble)  
 |4/8| Regularization for Deep Learning (Dropout, Data Augmentations)
 |4/13| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
@@ -53,15 +53,15 @@ Office hours: By appointment only.
 |5/4| Generative Adversarial Networks
 |5/6| Advanced GANs (WGAN, StyleGAN)
 |5/11| VAEs and GANs **(Programming)**, 
-|5/13| **Programming Assignment Explained**
-|5/18| Advanced CNN Architectures (MobileNets, ShuffleNets)
-|5/23| Advanced CNN Architectures (EfficientNets, NFNets)
-|5/25| Object Detection and Segmentation
-|6/1| Self-Supervised Learning 
+|5/13| Advanced CNN Architectures (MobileNets, ShuffleNets)
+|5/18| Advanced CNN Architectures (EfficientNets, NFNets)
+|5/20| Object Detection and Segmentation
+|5/25| Self-Supervised Learning 
+|5/27| Transformers
 |6/1| Pretrained Language Models (BERT, GPT)
-|6/3| Vision and Multi-modal Transformers (VIT, DALLE) **(2nd Assignment Due)**
+|6/3| Vision and Multi-modal Transformers (VIT, DALLE) 
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
-|6/10| Graph Neural Networks (Pooling Methods, Graph Generation)
+|6/10| Graph Neural Networks (Pooling Methods, Graph Generation) **(2nd Assignment Due)**
 |6/18| **Final Exam**
 
 ## Reading List
