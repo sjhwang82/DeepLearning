@@ -4,18 +4,19 @@
 
 **Description**
 
-This course covers various models and algorithms for deep learning, including both the fundemantal concepts and recent advances. In the first half of the course, we will learn about the most basic topics such as multi-layer preceptrons, backpropagation, convolutional neural networks, recurrent neural networks, autoencoders and variational autoencoders, optimization and regularization of deep learning models. Then, in the second half of the course, we will go over more advanced models, such as generative adversarial networks, efficient CNN architectures, transformers, and graph neural networks, while solving a real-world problem utilizing one of them.  
+This course covers various models and algorithms for deep learning, including both the fundemantal concepts and recent advances. In the first half of the course, we will learn about the most basic topics such as multi-layer preceptrons, backpropagation, convolutional neural networks, recurrent neural networks, Transformers, autoencoders and variational autoencoders, optimization and regularization of deep learning models. We will also have multiple lab sessions in which the TAs demonstrate how to perform training and inference learned models at the code level. Then, in the second half of the course, we will go over more advanced models, such as generative adversarial networks, efficient CNN architectures, self-supervised learning and pretrained language models, and graph neural networks, while working on a project that aims to solve a real-world problem utilizing one of them.  
 
 **Instructor:** Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
 
-**TAs:** Seanie Lee, Taewook Nam, Jinheon Baek, Minki Kang
+**TAs:** Seanie Lee (lsnfamily02@kaist.ac.kr), Taewook Nam (namsan@kaist.ac.kr), Jinheon Baek (jinheon.baek@kaist.ac.kr), Minki Kang (zzxc1133@kaist.ac.kr)
+We will be using [Pytorch](https://pytorch.org/) as the official ML library.
 
 **Office:** 
 Building #9, 9201, KAIST Seoul Campus. 
 Office hours: By appointment only.
 
 ### Grading Policy
-* **Absolute Grading** - You will be graded by the total absolute score, and not the relative ranking.
+* **Absolute Grading** - You will be graded by the total absolute score, and not the relative ranking. Every project groups will be also graded solely based on the absolute quality of the final project outcome, not in comparison to others.
 * Mid-term Exam: 40% - The exam will cover the basic topics of deep learning taught in the first half of the course.
 * Final Project: 40% - You will need to work on a final project utilizing one of the advanced models, present it, and submit the report.
 * Attendance and Participation: 20% - Active participation during or off-class hours will be highly appreciated.
@@ -27,51 +28,53 @@ Office hours: By appointment only.
 |3/2| Course Introduction |
 |3/4| Review of Machine Learning Basics **(Video Lecture)** |
 |3/9| Feedforward Neural Networks (Cost Function, Activations)
-|3/11| Feedforward Neural Networks (Backpropagation)
-|3/16| **Pytorch Basics** 
+|3/11| Feedforward Neural Networks (Backpropagation, Why deep learning works)
+|3/16| Pytorch Basics and Feedforward Neural Networks **(Programming)** 
 |3/18| Convolutional Neural Networks
-|3/23| Advanced CNN Architectures (GoogLeNet, ResNet, DenseNet)
+|3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
 |3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/30| Attentional RNNs and Memory Networks
-|4/1| CNN & RNN **(Programming)**
+|3/30| Attentional RNNs and Transformers **Initial Proposal Due**
+|4/1| CNN, RNN and Transformers **(Programming)**
 |4/6| Regularization Techniques for Deep Learning (L2/L1, Ensemble)  
 |4/8| Regularization Techniques for Deep Learning (Dropout, Data augmentation)
-|4/13| Optimization Techniques for Deep Learning (Challenges, Lottery Ticket Hypothesis) 
-|4/15| Optimization Techniques for Deep Learning (Adaptive SGD and Second-order Methods) 
-|4/20| **Mid-term Exam**
+|4/13| Optimization Techniques for Deep Learning (Challenges) 
+|4/15| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
 |4/27| Regularization & Optimization **(Programming)**
 |4/29| Autoencoders and Variational Autoencoders
 |5/4| Generative Adversarial Networks
 |5/6| Advanced GANs (WGAN, StyleGAN)
 |5/11| VAE and GAN **(Programming)**
-|5/13| Efficient CNN Architectures (MobileNets, ShuffltNets) 
-|5/18| Efficient CNN Architectures (EfficientNet, NFNets)
-|5/20| Transformers
-|5/25| Pretrained Language Models (BERT, GPT)
-|6/1| Transformer **(Programming)**
+|5/13| **Mid-term Exam**
+|5/18| **Mid-term Presentations** 
+|5/20| Advanced CNN Architectures (EfficientNet, NFNets)
+|5/25| Advanced CNN Architectures (EfficientNet, NFNets)
+|6/1| Self-Supervised Learning and Pretrained Language Models (BERT, GPT)
 |6/3| Vision and Multi-modal Transformers (VIT, DALLE)
-|6/8| Graph Neural Networks (Node Embeddings)
-|6/10| Graph Neural Networks (Pooling Methods)
-|6/15| **Final Presentation**
+|6/8| Graph Neural Networks (GCN, GAT, GIN)
+|6/10| Graph Neural Networks (Pooling Methods, Graph Generation)
+|6/18| **Final Presentations**
 
 ## Reading List
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
-[[Kingma et al. 15]](https://arxiv.org/pdf/1506.02557.pdf) Variational Dropout and the Local Reparameterization Trick, NIPS 2015.   
-[[Blundell et al. 15]](https://arxiv.org/pdf/1505.05424.pdf) Weight Uncertainty in Neural Networks, ICML 2015.   
-[[Gal and Ghahramani 16]](http://proceedings.mlr.press/v48/gal16.pdf) Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, ICML 2016.   
-[[Liu et al. 16]](https://papers.nips.cc/paper/6338-stein-variational-gradient-descent-a-general-purpose-bayesian-inference-algorithm.pdf) Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm, NIPS 2016.  
-[[Mandt et al. 17]](https://www.jmlr.org/papers/volume18/17-214/17-214.pdf) Stochastic Gradient Descent as Approximate Bayesian Inference, JMLR 2017.  
-[[Kendal and Gal 17]](https://papers.nips.cc/paper/7141-what-uncertainties-do-we-need-in-bayesian-deep-learning-for-computer-vision.pdf) What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?, ICML 2017.  
-[[Gal et al. 17]](https://papers.nips.cc/paper/6949-concrete-dropout.pdf) Concrete Dropout, NIPS 2017.  
-[[Gal et al. 17]](http://proceedings.mlr.press/v70/gal17a/gal17a.pdf) Deep Bayesian Active Learning with Image Data, ICML 2017.  
-[[Teye et al. 18]](http://proceedings.mlr.press/v80/teye18a/teye18a.pdf) Bayesian Uncertainty Estimation for Batch Normalized Deep Networks, ICML 2018.  
-[[Garnelo et al. 18]](http://proceedings.mlr.press/v80/garnelo18a/garnelo18a.pdf) Conditional Neural Process, ICML 2018.  
-[[Kim et al. 19]](http://https://arxiv.org/pdf/1901.05761.pdf) Attentive Neural Processes, ICLR 2019.  
-[[Sun et al. 19]](https://arxiv.org/pdf/1903.05779.pdf) Functional Variational Bayesian Neural Networks, ICLR 2019.  
-***
-[[Louizos et al. 19]](http://papers.nips.cc/paper/9079-the-functional-neural-process.pdf) The Functional Neural Process, NeurIPS 2019.  
-[[Amersfoort et al. 20]](https://arxiv.org/pdf/2003.02037.pdf) Uncertainty Estimation Using a Single Deep Deterministic Neural Network, ICML 2020.  
-[[Dusenberry et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5657-Paper.pdf) Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors, ICML 2020.  
-[[Wenzel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf) How Good is the Bayes Posterior in Deep Neural Networks Really?, ICML 2020.  
-[[Lee et al. 20]](https://arxiv.org/abs/2008.02956) Bootstrapping Neural Processes, arXiv preprint 2020.  
+[[Goodfellow et al. 14]](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) Generative Adversarial Nets, NIPS 2014.   
+[[Radford et al. 15]](https://arxiv.org/abs/1511.06434) Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016.   
+[[Chen et al. 16]](https://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf) InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016.   
+[[Arjovsky et al. 17]](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf) Wasserstein Generative Adversarial Networks, ICML 2017.  
+[[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.  
+[[Karras et al. 18]](https://openreview.net/forum?id=Hk99zCeAb) Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018.  
+[[Brock et al. 19]](https://openreview.net/pdf?id=B1xsqj09Fm) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019.  
+[[Karras et al. 19]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019.  
+[[Li et al. 16]](https://arxiv.org/pdf/1511.05493.pdf) Gated Graph Sequence Neural Networks, ICLR 2016.  
+[[Hamilton et al. 17]](https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf) Inductive Representation Learning on Large Graphs, NIPS 2017.  
+[[Kipf and Welling 17]](https://openreview.net/pdf?id=SJU4ayYgl) Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017.  
+[[Velickovic et al. 18]](https://openreview.net/pdf?id=rJXMpikCZ) Graph Attention Networks, ICLR 2018.   
+[[Xu et al. 19]](https://openreview.net/forum?id=ryGs6iA5Km) How Powerful are Graph Neural Networks?, ICLR 2019.  
+[[Ying et al. 18]](https://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf) Hierarchical Graph Representation Learning with Differentiable Pooling, NeurIPS 2018.  
+[[Dosovitskiy et al. 14]](https://papers.nips.cc/paper/5548-discriminative-unsupervised-feature-learning-with-convolutional-neural-networks.pdf) Discriminative Unsupervised Feature Learning with Convolutional Neural Networks, NIPS 2014.  
+[[Gidaris et al. 18]](https://openreview.net/pdf?id=S1v4N2l0-) Unsupervised Representation Learning by Predicting Image Rotations, ICLR 2018.  
+[[He et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) Momentum Contrast for Unsupervised Visual Representation Learning, CVPR 2020.  
+[[Chen et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6165-Paper.pdf) A Simple Framework for Contrastive Learning of Visual Representations, ICML 2020.  
+[[Devlin et al. 19]](https://www.aclweb.org/anthology/N19-1423.pdf) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019.  
+[[Clark et al. 20]](https://openreview.net/pdf?id=r1xMH1BtvB) ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators, ICLR 2020.  
+
 
