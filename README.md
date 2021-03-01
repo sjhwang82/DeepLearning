@@ -14,7 +14,7 @@ Taewook Nam (namsan@kaist.ac.kr)
 Jinheon Baek (jinheon.baek@kaist.ac.kr)
 Minki Kang (zzxc1133@kaist.ac.kr)
 
-**Programming Environment**
+**Programming Environment:**
 We will be using [Pytorch](https://pytorch.org/) as the official ML library.
 
 **Office:** 
