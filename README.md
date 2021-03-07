@@ -34,7 +34,7 @@ Office hours: By appointment only.
 | Dates | Topic | 
 |---|:---|
 |3/2| Course Introduction |
-|3/4| Review of Machine Learning Basics **(Video Lecture, Will be uploaded on 3/8)** |
+|3/4| Review of Machine Learning Basics **(Video Lecture, Will be uploaded on March 7th)** |
 |3/9| Feedforward Neural Networks (Cost Function, Activations)
 |3/11| Feedforward Neural Networks (Backpropagation, Why deep learning works)
 |3/16| Pytorch Basics, Setting Up AWS, and Feedforward Neural Networks **(Programming)** 
