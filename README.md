@@ -48,21 +48,21 @@ Office hours: By appointment only.
 |4/13| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
 |4/15| CNN, RNN, Regularization **(Programming)**
 |4/20| **Mid-term Exam**
-|4/27| Autoencoders and Variational Autoencoders
-|4/29| Generative Adversarial Networks
-|5/4| Advanced GANs (WGAN, StyleGAN)
-|5/6|  Optimization, VAEs and GANs **(Programming)**, **(1st Assignment Due)**
-|5/11| Advanced CNN Architectures (MobileNets, ShuffleNets)
-|5/13| Advanced CNN Architectures (EfficientNets, NFNets)
-|5/18| Object Detection and Segmentation
+|4/27| Autoencoders and Variational Autoencoders (Autoencoders)
+|4/29| Autoencoders and Variational Autoencoders (VAEs)
+|5/4| Generative Adversarial Networks
+|5/6| Advanced GANs (WGAN, StyleGAN)
+|5/11|  Optimization, VAEs and GANs **(Programming)** 
+|5/13| Advanced CNN Architectures (MobileNets, ShuffleNets) 
+|5/18| Advanced CNN Architectures (EfficientNets, NFNets) **(1st Assignment Due)**
 |5/20| Self-Supervised Learning 
 |5/25| Transformers
 |5/27| Pretrained Language Models (BERT, GPT)
 |6/1| Trransfomers and Pretrained Language Models **(Programming)**
 |6/3| Vision and Multi-modal Transformers (VIT, DALLE) 
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
-|6/10| Graph Neural Networks (Pooling Methods, Graph Generation) **(2nd Assignment Due)**
-|6/18| **Final Exam**
+|6/10| Graph Neural Networks (Pooling Methods, Graph Generation) 
+|6/18| **Final Exam** **(2nd Assignment Due)**
 
 ## Reading List
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
