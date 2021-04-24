@@ -55,9 +55,9 @@ Office hours: By appointment only.
 |5/11|  Optimization, VAEs and GANs **(Programming)** 
 |5/13| Advanced CNN Architectures (MobileNets, ShuffleNets) 
 |5/18| Advanced CNN Architectures (EfficientNets, NFNets) **(1st Assignment Due)**
-|5/20| Self-Supervised Learning 
-|5/25| Transformers
-|5/27| Pretrained Language Models (BERT, GPT)
+|5/20| Object Detection and Segmentation 
+|5/25| Self-Supervised Learning
+|5/27| Transformers and Pretrained Language Models (BERT, GPT)
 |6/1| Trransfomers and Pretrained Language Models **(Programming)**
 |6/3| Vision and Multi-modal Transformers (VIT, DALLE) 
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
