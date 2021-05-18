@@ -57,9 +57,9 @@ Office hours: By appointment only.
 |5/18| Advanced CNN Architectures (EfficientNets, NFNets) **(1st Assignment Due)**
 |5/20| Object Detection and Segmentation 
 |5/25| Self-Supervised Learning
-|5/27| Transformers and Pretrained Language Models (BERT, GPT)
-|6/1| Trransfomers and Pretrained Language Models **(Programming)**
-|6/3| Vision and Multi-modal Transformers (VIT, DALLE) 
+|5/27| No class
+|6/1| Transformers and Pretrained Language Models (BERT, GPT)
+|6/3| Trransfomers and Pretrained Language Models **(Programming)**
 |6/8| Graph Neural Networks (GCN, GAT, GIN)
 |6/10| Graph Neural Networks (Pooling Methods, Graph Generation) 
 |6/18| **Final Exam** **(2nd Assignment Due)**
