@@ -59,9 +59,9 @@ Office hours: By appointment only.
 |5/25| Transformers and Pretrained Language Models (BERT, GPT)
 |5/27| Transfomers and Pretrained Language Models **(Programming)**
 |6/1| Self-Supervised Learning for Visual Recognition
-|6/3| Graph Neural Networks (GCN, GAT, GIN)
-|6/8| Graph Neural Networks (Pooling Methods, Graph Generation)  
-|6/10| Q&A Session for the Final Exam
+|6/8| Graph Neural Networks (GCN, GAT, GIN)
+|6/10| Graph Neural Networks (Pooling Methods, Graph Generation)  
+|6/15| Q&A Session for the Final Exam
 |6/18| **Final Exam** **(2nd Assignment Due)**
 
 ## Reading List
