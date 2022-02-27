@@ -12,9 +12,9 @@ This course covers various models and algorithms for deep learning, including bo
 
 Taewook Nam (namsan@kaist.ac.kr)  
 Jinheon Baek (jinheon.baek@kaist.ac.kr)  
-Jaehyeong Jo (harryjo97@kaist.ac.kr)
-Wonyong Jeong (wyjeong@kaist.ac.kr)
-Dongchan Min (alsehdcks95@kaist.ac.kr)
+Jaehyeong Jo (harryjo97@kaist.ac.kr) 
+Wonyong Jeong (wyjeong@kaist.ac.kr) 
+Dongchan Min (alsehdcks95@kaist.ac.kr) 
 
 
 **Programming Environment:**
