@@ -12,8 +12,10 @@ This course covers various models and algorithms for deep learning, including bo
 
 Taewook Nam (namsan@kaist.ac.kr)  
 Jinheon Baek (jinheon.baek@kaist.ac.kr)  
-Minki Kang (zzxc1133@kaist.ac.kr)  
-Seul Lee (animecult@kaist.ac.kr)
+Jaehyeong Jo (harryjo97@kaist.ac.kr)
+Wonyong Jeong (wyjeong@kaist.ac.kr)
+Dongchan Min (alsehdcks95@kaist.ac.kr)
+
 
 **Programming Environment:**
 We will be using [Pytorch](https://pytorch.org/) as the official ML library.
@@ -26,43 +28,43 @@ Office hours: By appointment only.
 * **Absolute Grading** - You will be graded by the total absolute score, and not the relative ranking. Every project groups will be also graded solely based on the absolute quality of the final project outcome, not in comparison to others.
 * Mid-term Exam: 20% - The exam will cover the basic topics of deep learning taught in the first half of the course.
 * Final Exam: 20% - This will cover the advanced topics taught in the second half of the course. 
-* Programming Assignments: 40% - You will work on two programming assignments and submit the code as well as the report.
+* Programming Assignments: 30% - You will work on two to three programming assignments and submit the code as well as the report.
 * Attendance and Participation: 20% - Active participation during or off-class hours will be highly appreciated.
 
 ## Course Schedule
 
 | Dates | Topic | 
 |---|:---|
-|3/2| Course Introduction |
-|3/4| Review of Machine Learning Basics **(Video Lecture, Will be uploaded on March 7th)** |
-|3/9| Feedforward Neural Networks (Cost Function, Activations)
-|3/11| Feedforward Neural Networks (Backpropagation, Why deep learning works)
-|3/16| Pytorch Basics, Setting Up AWS, and Feedforward Neural Networks **(Programming)** 
-|3/18| Convolutional Neural Networks
-|3/23| Modern CNNs (GoogLeNet, ResNet, DenseNet)
-|3/25| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/30| Attention Mechanisms and Attentional RNNs
-|4/1| Regularization for Deep Learning (L2/L1, Ensemble)  
-|4/6| Regularization for Deep Learning (Dropout, Data Augmentations)
-|4/8| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
-|4/13| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
-|4/15| CNN, RNN, Regularization **(Programming)**
-|4/20| **Mid-term Exam**
-|4/27| Autoencoders and Variational Autoencoders (Autoencoders)
-|4/29| Autoencoders and Variational Autoencoders (VAEs)
-|5/4| Generative Adversarial Networks
-|5/6| Advanced GANs (WGAN, StyleGAN)
-|5/11|  Optimization, VAEs and GANs **(Programming)** 
-|5/13| Advanced CNN Architectures (MobileNets, ShuffleNets) 
-|5/18| Advanced CNN Architectures (EfficientNets, NFNets) **(1st Assignment Due)**
-|5/20| Object Detection and Segmentation 
-|5/25| Transformers and Pretrained Language Models (BERT, GPT)
-|5/27| Transfomers and Pretrained Language Models **(Programming)**
-|6/1| Vision Transformers
-|6/8| Graph Neural Networks (GCN, GAT, GIN)
-|6/10| Graph Neural Networks (Pooling Methods, Graph Generation)  
-|6/15| Q&A Session for the Final Exam
-|6/18| **Final Exam** **(2nd Assignment Due)**
+|3/3| Course Introduction |
+|3/8| Review of Machine Learning Basics **(Video Lecture)** |
+|3/10| Feedforward Neural Networks (Cost Function, Activations)
+|3/15| Feedforward Neural Networks (Backpropagation, Why deep learning works)
+|3/17| Pytorch Basics, Setting Up AWS, and Feedforward Neural Networks **(Programming)** 
+|3/22| Convolutional Neural Networks
+|3/24| Modern CNNs (GoogLeNet, ResNet, DenseNet)
+|3/29| Recurrent Neural Networks (LSTM, Seq2Seq)
+|3/31| Attention Mechanisms and Attentional RNNs
+|4/5| Regularization for Deep Learning (L2/L1, Ensemble)  
+|4/7| Regularization for Deep Learning (Dropout, Data Augmentations)
+|4/12| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
+|4/14| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
+|4/19| CNN, RNN, Regularization **(Programming)**
+|4/21| **Mid-term Exam**
+|4/26| Autoencoders
+|4/28| Introduction to Deep Generative Models, Variational Autoencoders 
+|5/3| Generative Adversarial Networks
+|5/10| Advanced GANs (WGAN, StyleGAN)
+|5/12|  Optimization, VAEs and GANs **(Programming)** 
+|5/17| Advanced CNN Architectures (MobileNets, ShuffleNets) 
+|5/19| Advanced CNN Architectures (EfficientNets, NFNets) **(1st Assignment Due)**
+|5/24| Object Detection and Segmentation 
+|5/26| Transformers and Pretrained Language Models (BERT, GPT)
+|5/31| Transfomers and Pretrained Language Models **(Programming)**
+|6/2| Vision Transformers
+|6/7| Graph Neural Networks (GCN, GAT, GIN)
+|6/9| Graph Neural Networks (Pooling Methods, Graph Generation)  
+|6/14| Q&A Session for the Final Exam
+|6/16| **Final Exam** **(2nd Assignment Due)**
 
 ## Reading List
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
