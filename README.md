@@ -41,9 +41,8 @@ Office hours: By appointment only.
 |3/15| Feedforward Neural Networks (Backpropagation, Why deep learning works)
 |3/17| Pytorch Basics, Setting Up AWS, and Feedforward Neural Networks **(Programming)** 
 |3/22| Convolutional Neural Networks
-|3/24| Modern CNNs (GoogLeNet, ResNet, DenseNet)
-|3/29| Recurrent Neural Networks (LSTM, Seq2Seq)
-|3/31| Attention Mechanisms and Attentional RNNs
+|3/29| Modern CNNs (GoogLeNet, ResNet, DenseNet)
+|3/31| Recurrent Neural Networks (LSTM, Seq2Seq, Attention Mechanism)
 |4/5| Regularization for Deep Learning (L2/L1, Ensemble)  
 |4/7| Regularization for Deep Learning (Dropout, Data Augmentations)
 |4/12| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
