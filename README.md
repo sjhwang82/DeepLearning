@@ -47,6 +47,7 @@ Office hours: By appointment only.
 |4/7| Regularization for Deep Learning (Dropout, Data Augmentations)
 |4/12| Optimization Techniques for Deep Learning (Challenges, Adpative SGDs) 
 |4/14| Optimization Techniques for Deep Learning (Adaptive SGDs and Second-order Methods) 
+|4/18| Q&A Session for the Midterm Exam
 |4/19| CNN, RNN, Regularization **(Programming)**
 |4/21| **Mid-term Exam**
 |4/26| Autoencoders
