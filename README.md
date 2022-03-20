@@ -51,9 +51,9 @@ Office hours: By appointment only.
 |4/19| CNN, RNN, Regularization **(Programming)**
 |4/21| **Mid-term Exam**
 |4/26| Autoencoders
-|4/28| Introduction to Deep Generative Models, Variational Autoencoders **(1st Assignment Due)**
+|4/28| Introduction to Deep Generative Models, Variational Autoencoders 
 |5/3| Generative Adversarial Networks 
-|5/10| Advanced GANs (WGAN, StyleGAN)
+|5/10| Advanced GANs (WGAN, StyleGAN) **(1st Assignment Due)**
 |5/12|  Optimization, VAEs and GANs **(Programming)** 
 |5/17| Advanced CNN Architectures (MobileNets, ShuffleNets) 
 |5/19| Advanced CNN Architectures (EfficientNets, NFNets) 
