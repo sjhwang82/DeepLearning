@@ -53,9 +53,9 @@ Office hours: By appointment only.
 |4/26| Autoencoders
 |5/3| Introduction to Deep Generative Models, Variational Autoencoders 
 |5/10| Generative Adversarial Networks 
-|5/12| Advanced GANs (WGAN, StyleGAN) 
-|5/17|  Optimization, VAEs and GANs **(Programming)** 
-|5/19| Advanced CNN Architectures (MobileNets, ShuffleNets) **(1st Assignment Due)**
+|5/12| Advanced GANs (WGAN, StyleGAN, CycleGAN) 
+|5/17| Advanced CNN Architectures (MobileNets, ShuffleNets) **(Programming)** 
+|5/19| Optimization, VAEs and GANs  **(1st Assignment Due)**
 |5/24| Advanced CNN Architectures (EfficientNets, NFNets) 
 |5/26| Object Detection and Segmentation 
 |5/31| Transformers and Pretrained Language Models (BERT, GPT)
