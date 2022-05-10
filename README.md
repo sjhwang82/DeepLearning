@@ -51,19 +51,19 @@ Office hours: By appointment only.
 |4/19| CNN, RNN, Regularization **(Programming)**
 |4/21| **Mid-term Exam**
 |4/26| Autoencoders
-|4/28| Introduction to Deep Generative Models, Variational Autoencoders 
-|5/3| Generative Adversarial Networks 
-|5/10| Advanced GANs (WGAN, StyleGAN) 
-|5/12|  Optimization, VAEs and GANs **(Programming)** 
-|5/17| Advanced CNN Architectures (MobileNets, ShuffleNets) **(1st Assignment Due)**
-|5/19| Advanced CNN Architectures (EfficientNets, NFNets) 
-|5/24| Object Detection and Segmentation 
-|5/26| Transformers and Pretrained Language Models (BERT, GPT)
-|5/31| Transfomers and Pretrained Language Models **(Programming)**
-|6/2| Vision Transformers
-|6/7| Graph Neural Networks (GCN, GAT, GIN)
-|6/9| Graph Neural Networks (Pooling Methods, Graph Generation) **(2nd Assignment Due)**  
-|6/14| Q&A Session for the Final Exam
+|5/3| Introduction to Deep Generative Models, Variational Autoencoders 
+|5/10| Generative Adversarial Networks 
+|5/12| Advanced GANs (WGAN, StyleGAN) 
+|5/17|  Optimization, VAEs and GANs **(Programming)** 
+|5/19| Advanced CNN Architectures (MobileNets, ShuffleNets) **(1st Assignment Due)**
+|5/24| Advanced CNN Architectures (EfficientNets, NFNets) 
+|5/26| Object Detection and Segmentation 
+|5/31| Transformers and Pretrained Language Models (BERT, GPT)
+|6/2| Transfomers and Pretrained Language Models **(Programming)**
+|6/7| Vision Transformers
+|6/9| Graph Neural Networks (GCN, GAT, GIN)
+|6/14| Graph Neural Networks (Pooling Methods, Graph Generation) **(2nd Assignment Due)**  
+|6/15| Q&A Session for the Final Exam
 |6/16| **Final Exam** 
 
 ## Reading List
