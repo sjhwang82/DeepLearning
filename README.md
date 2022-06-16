@@ -64,7 +64,7 @@ Office hours: By appointment only.
 |6/9| Graph Neural Networks (Pooling Methods, Graph Generation) 
 |6/14| Q&A Session for the Final Exam **(2nd Assignment Due)**  
 |6/16| **Final Exam** 
-|6/17| Vision and Multi-modal Transformers
+|6/23| Vision and Multi-modal Transformers (Video Lecture)
 
 ## Reading List
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114.pdf) Auto-Encoding Variational Bayes, ICLR 2014.   
